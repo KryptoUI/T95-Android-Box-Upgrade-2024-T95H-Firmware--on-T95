@@ -79,7 +79,7 @@ Create Shortcut To Desktop
 ## Download Image
 
 ```sh
-Download https://www.dropbox.com/s/6ppx0umdpnkamn3/T95-H616-A29.img?dl=1
+Download https://www.dropbox.com/s/clny9hmfshqrlm1/T95H-H616-X29-0110.img?dl=1
 ```
 
 ## Install Image To SD Card
