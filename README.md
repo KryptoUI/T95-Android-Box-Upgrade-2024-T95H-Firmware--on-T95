@@ -96,7 +96,7 @@ Once It's burned we can eject the SD Card and place the SD card into the slot on
 
 ```sh
 Once you have placed the SD card into the Android TV Box.
-Remove Power for 10 seconds and re - insert power cable. 
+Remove Power for 10 seconds and re-insert power cable. 
 Wait For the Android Operating System To Be Installed.
 You will see a Green bar go across the screen.
 DO NOT PRESS ANYTHING
@@ -104,8 +104,8 @@ DO NOT PRESS ANYTHING
 ## Step 3. Restore SD Card.
 ```sh
 Reinsert SD card into PC (Wait for shit loads of boxes to popup on your computer, This is noramal.)
-click restore on in PhoenixCard.v4.2.4.
-and wait for it to finish.
+click restore on PhoenixCard.v4.2.4.
+Wait for it to finish.
 Now Close every last box and move on to the next step. Installing Applications. 
 ```
 ![alt text](https://i.imgur.com/VZ9Tih5.png)
