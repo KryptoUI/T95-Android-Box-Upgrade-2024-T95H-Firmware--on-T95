@@ -70,17 +70,17 @@ Due to the limitations in Google API's And Google System's. They stoped making a
 Download The PhoenixCard.v4.2.4 Flasher. 
 _(NOTE: Make sure you have a SD card the size of 8GB+)_
 
+<a id="raw-url" href="https://www.dropbox.com/s/hjkonwz1m1ab0zy/PhoenixCard.v4.2.4.zip?dl=1">Download FILE</a>
 ```sh
-Download The PhoenixCard.v4.2.4: https://www.dropbox.com/s/hjkonwz1m1ab0zy/PhoenixCard.v4.2.4.zip?dl=1
+Download The PhoenixCard.v4.2.4:
 Extract Zip To Desktop Folder
 Create Shortcut To Desktop
 ```
 ![alt text](https://i.imgur.com/NbvXlYP.png)
 ## Download Image
 
-```sh
-Download https://www.dropbox.com/s/clny9hmfshqrlm1/T95H-H616-X29-0110.img?dl=1
-```
+<a id="raw-url" href="https://www.dropbox.com/s/clny9hmfshqrlm1/T95H-H616-X29-0110.img?dl=1">Download FILE</a>
+
 
 ## Install Image To SD Card
 ## Warning!
@@ -112,16 +112,19 @@ Now Close every last box and move on to the next step. Installing Applications.
 
 ## Step 4. Installing Applications.
 Place downloaded applications onto the SD Card.
-```sh
-> NetFlix:  https://www.dropbox.com/s/jprlsnca9wxrl97/com.netflix.mediaclient_8.50.0_build_9_50318-50318_minAPI24%28arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64%29%28nodpi%29_apkmirror.com.apk?dl=1
+> NetFlix:
+<a id="raw-url" href="https://www.dropbox.com/s/jprlsnca9wxrl97/com.netflix.mediaclient_8.50.0_build_9_50318-50318_minAPI24%28arm64-v8a%2Carmeabi-v7a%2Cx86%2Cx86_64%29%28nodpi%29_apkmirror.com.apk?dl=1">Download FILE</a>
 
-> Amazon Prime: https://www.dropbox.com/s/3kg7r53938ng779/com.amazon.avod.thirdpartyclient_3.0.335.11455-335011455_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com.apk?dl=1
 
-> Kodi: https://www.dropbox.com/s/jox2r387mc4yxmo/kodi-19.4-Matrix-armeabi-v7a.apk?dl=1
+> Amazon Prime:
+> <a id="raw-url" href="https://www.dropbox.com/s/3kg7r53938ng779/com.amazon.avod.thirdpartyclient_3.0.335.11455-335011455_minAPI21%28armeabi-v7a%29%28nodpi%29_apkmirror.com.apk?dl=1">Download FILE</a>
 
-> APKPure: https://www.dropbox.com/s/3h0q2ybsxqkpu06/APKPure_v3.18.50_apkpure.com.apk?dl=1
+> Kodi:
+<a id="raw-url" href="https://www.dropbox.com/s/jox2r387mc4yxmo/kodi-19.4-Matrix-armeabi-v7a.apk?dl=1">Download FILE</a>
 
-```
+> APKPure: 
+> <a id="raw-url" href="https://www.dropbox.com/s/3h0q2ybsxqkpu06/APKPure_v3.18.50_apkpure.com.apk?dl=1">Download FILE</a>
+
 
 Congrat's You have just updated your T95 Android TV Box with the T95H Firmware. 
 
