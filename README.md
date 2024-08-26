@@ -1,4 +1,9 @@
 ﻿# T95 Android Box.
+
+26/08/2024: UPDATE: There is more firmware files i have for this device, I will be updating a new repo with the new files, If there is something you would like. Go to Issues and let me know there. 
+
+
+ 
 ## _Upgrade the Alwinner T95 - H616 Android TV Box With The T95H Android TV OS 2024._
 
 REPO WILL BE UPDATED OVER TIME SO MAKE SURE TO BOOKMARK AND STAR :)
